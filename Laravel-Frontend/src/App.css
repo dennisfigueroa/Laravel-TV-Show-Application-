@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.movie {
+  width: 200px;
+  height: auto;
+  border-radius: 3px; 
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2); 
+  display:inline-block;
+  margin:2rem;
+  background-color: white !important;
+  overflow:hidden;
+  
+}
+
+.movie img {
+  max-width: 100%;
+  height:auto;
+ 
+   
+}
